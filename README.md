@@ -12,4 +12,4 @@
 
 - Corre la aplicacion con el comando de: `docker run -d -p puerto:puerto --name nombre_contendor nombre_imagen`
 
-- Abre la aplicacion desde el navegador: `http:localhost:puerto`
+- Abre la aplicacion desde el navegador: `http://localhost:puerto`
